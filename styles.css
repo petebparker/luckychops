@@ -1,0 +1,46 @@
+body { color:rgb(0, 0, 0);
+       background: rgb(210, 105, 30);
+       margin: 0px;
+       font-family: "Shadows Into Light", cursive; 
+       margin-bottom: 100px;
+    }
+header { border-bottom: solid 10px rgb(165, 42, 42);
+         padding: 40px;
+         display: flex;
+         justify-content: center;
+        font-size: 60px;
+        color:rgb(0, 0, 180);
+       }
+
+       
+.capa { background: rgb(190 ,190 ,207);
+          padding: 50px;
+          display: flex;
+          justify-content: center;
+        }
+
+.texto { margin-right: 10%}
+
+h1{ font-size: 50px;}
+
+p { font-size: 20px;}
+
+.videos{ display: flex;
+         overflow-x: auto;
+         gap: 50px}
+
+.sugestões{ padding-left: 30px;
+         padding-right: 5px;
+         margin-top: 60px;}
+
+.videos img { opacity: 0.3;
+              height: 300}
+
+.videos img:hover { opacity: 1.0;
+                    border: 1px solid rgb(165, 0, 165)}
+
+.sugestões h2 {  color:rgb(0, 0, 180); }
+
+
+
+
